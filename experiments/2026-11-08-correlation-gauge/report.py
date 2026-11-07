@@ -9,6 +9,8 @@ import matplotlib.pyplot as plt
 
 ROOT=Path(__file__).resolve().parent
 RES=ROOT/'results'
+# Fresh source checkouts do not contain generated figures yet.
+(ROOT/'figures').mkdir(parents=True, exist_ok=True)
 assert (RES/'FREEZE_BEFORE_HOLDOUT.json').exists()
 tr=pd.read_csv(RES/'training.csv')
 te=pd.read_csv(RES/'heldout_test.csv')
