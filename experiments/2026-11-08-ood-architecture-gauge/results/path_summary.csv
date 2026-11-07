@@ -1,0 +1,10 @@
+objective,gauge,optimizer,n,path_max,path_median,finite,near_guard_max
+ce,heterogeneous,corrected,48,0.0,0.0,True,0
+ce,heterogeneous,sgd,48,4.824356993881696,2.663781237234872,True,0
+ce,identity,sgd,48,0.0,0.0,True,0
+corr,heterogeneous,corrected,48,0.0,0.0,True,0
+corr,heterogeneous,sgd,48,5.553915413041519,2.9431449870068,True,0
+corr,identity,sgd,48,0.0,0.0,True,0
+cov,heterogeneous,corrected,48,6.3172839145612345,0.9724890707326086,True,0
+cov,heterogeneous,sgd,48,5.9429372803955305,2.6086602160906636,True,0
+cov,identity,sgd,48,0.0,0.0,True,0

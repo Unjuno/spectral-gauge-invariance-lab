@@ -1,0 +1,25 @@
+{
+  "torch": "2.10.0+cpu",
+  "numpy": "2.3.5",
+  "python": "3.13.5",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.41",
+  "num_threads": 1,
+  "precision": "float64",
+  "device": "CPU",
+  "batch_size": 640,
+  "lr": [
+    0.08,
+    0.25
+  ],
+  "seeds": [
+    8200,
+    8201,
+    8202,
+    8203,
+    8204,
+    8205
+  ],
+  "warmup": 8,
+  "steps": 90,
+  "training_seconds": 58.678
+}

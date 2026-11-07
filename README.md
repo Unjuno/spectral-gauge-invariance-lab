@@ -1,3 +1,11 @@
+## New follow-up: cross-architecture and synthetic OOD stress test (2026-11-08)
+
+[**Read the new 432-run experiment**](experiments/2026-11-08-ood-architecture-gauge/README.md) · [Protocol](experiments/2026-11-08-ood-architecture-gauge/PROTOCOL.md) · [Independent reproduction](experiments/2026-11-08-ood-architecture-gauge/VERIFICATION.md) · [OOD paired effects](experiments/2026-11-08-ood-architecture-gauge/results/paired_effects.csv).
+
+Positive diagonal gauge consistency of correlation-regularized, corrected-SGD training holds across two small upstream architectures and two generated distributions, including synthetic OOD input evaluation. **OOD prediction quality did not improve consistently (2/8 cells)**. No general convergence or language-model improvement is claimed.
+
+---
+
 # Research summary / 研究成果の整理
 
 ## New audited follow-up (2026-11-08)

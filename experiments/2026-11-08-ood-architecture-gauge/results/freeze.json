@@ -1,0 +1,13 @@
+{
+  "PROTOCOL.md": "feec64474a9827e34b4ab1e257d06b6116cc050935dace7cd25977b299dab53e",
+  "core.py": "6e65ad52a1b6af414cade9e0657a6f4d7633047641f352ff91afd4899560892f",
+  "train.py": "2e54ea8e5cab86e080567a9b89f6cdd71b9a17dda5e6e76c958fcc89b9554347",
+  "evaluate.py": "743e7b99cb8776dcc7375f80a0215effae8719fa35904a32f1a36dba1022c3f1",
+  "analysis.py": "e92bff6e32a15e349e53fb12000f35a389ae7ab2717728470f6738e01e986b91",
+  "tests/test_invariance.py": "b5e150958ed4d79d319bded9f8a53c9398d1df2adaa0cd258dc1fbf62e5211ca",
+  "results/training.csv": "a4fece76e0036d56c9be50eb1a577cbad97cb8adbbd5a769bbcf1b0f838523b0",
+  "results/trajectories.csv": "be4c695d960295aec9dc2b37ece1d2b4625bda54d02d4eb556cb02cf11a22495",
+  "results/initial.csv": "a443ab615cc1aa153b1dc75ad311ebb9ec66c0cbd8bf58c8be33f497d470267c",
+  "model_files": 432,
+  "model_digest": "4330c568edba0fab90a48f5efb34ab1164d5db11439131ffdd8bb382b9fdb92f"
+}

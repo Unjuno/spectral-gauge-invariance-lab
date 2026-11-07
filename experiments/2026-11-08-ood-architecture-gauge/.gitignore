@@ -1,0 +1,9 @@
+models/
+__pycache__/
+.pytest_cache/
+refs/
+fresh_verification/
+results/train.log
+results/first_attempt_count_erratum.log
+results/fresh_run.log
+results/*.pid
