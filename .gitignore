@@ -1,0 +1,5 @@
+models/
+__pycache__/
+.pytest_cache/
+*.pyc
+results/train.log
