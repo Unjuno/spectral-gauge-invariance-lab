@@ -1,0 +1,5 @@
+dataset,learning_rate,method,gauge,metric,mean_difference,ci95_low,ci95_high,paired_seeds
+classification6,0.08,vanilla_sgd,shrink,test_ce,-0.485343,-0.514896,-0.456845,12
+classification6,0.25,vanilla_sgd,shrink,test_ce,-0.037801,-0.043879,-0.032378,12
+moons,0.08,vanilla_sgd,shrink,test_ce,-0.014859,-0.021328,-0.009148,12
+moons,0.25,vanilla_sgd,shrink,test_ce,0.042606,0.038008,0.046880,12
