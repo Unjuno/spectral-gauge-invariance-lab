@@ -1,5 +1,14 @@
 # Research summary / 研究成果の整理
 
+## New audited follow-up (2026-11-08)
+
+[**Correlation-gauge follow-up / 相関のゲージ不変制御**](experiments/2026-11-08-correlation-gauge/FINDINGS.ja.md) — 432 controlled training runs with frozen source/checkpoints before holdout evaluation. Positive diagonal feature rescaling leaves correlations invariant; corrected SGD recovers canonical paths for CE and correlation penalties, but not for scale-dependent covariance penalties. Correlation redundancy decreases, yet **generalization improves in only one of four dataset/learning-rate cells**. No convergence guarantee or general predictive improvement is claimed.
+
+[Source and derivation](experiments/2026-11-08-correlation-gauge/README.md) · [Reproduction and audit](experiments/2026-11-08-correlation-gauge/REPRODUCE.md) · [Paired results](experiments/2026-11-08-correlation-gauge/results/paired_comparisons.csv) · [Complete CSV archive](experiments/2026-11-08-correlation-gauge/results/full_data.zip)
+
+---
+
+
 **日本語の全実験整理：** [これまでに分かったこと](docs/FINDINGS.ja.md)  
 **Latest experiment measurements:** [RESULTS.ja.md](RESULTS.ja.md) · [Primary effects CSV](results/primary_effects.csv)  
 **Implementation:** [Experiment](src/experiment.py) · [Training](src/run.py) · [Holdout evaluation](src/evaluate.py) · [Tests](tests/)

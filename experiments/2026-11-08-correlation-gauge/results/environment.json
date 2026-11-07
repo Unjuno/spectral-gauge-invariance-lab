@@ -1,0 +1,20 @@
+{
+  "torch": "2.10.0+cpu",
+  "numpy": "2.3.5",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.41",
+  "precision": "float64",
+  "threads": 1,
+  "GPU": false,
+  "batch_size": 800,
+  "seeds": 12,
+  "steps": 120,
+  "warmup": 10,
+  "learning_rates": [
+    0.08,
+    0.25
+  ],
+  "lambda": 0.5,
+  "variance_guard": 1e-16,
+  "n_training_runs": 432,
+  "train_seconds": 95.63448163699996
+}

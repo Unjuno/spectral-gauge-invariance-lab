@@ -1,0 +1,12 @@
+{
+  "PROTOCOL.md": "2115f855b98e3abcaa6768e2ea76c89c603072832f96c12aa236e8ad35c47b92",
+  "core.py": "c6ac06ab9a09d692f3595557cd623718bc82621e520f8b78250f1bb99b051e67",
+  "train.py": "f7b6ee1921c0baab397465cdd9da29b689460c272d1811e03093d49ff7464df9",
+  "evaluate.py": "3b8c984a79d22fadec20bf8882ac8f25abbc6c00408d05dadfaf1d0449b5b8a3",
+  "freeze.py": "37c026ae1d255f3a04d9191a3e619969588580833bbca84dedf2505121b680d5",
+  "results/training.csv": "e06147058a44bec0ee18747f84e62e00ce23be47e3bd118aa5b8b2415e602e95",
+  "results/trajectories.csv": "2ff274cd9d0da95651044081c72631270eef8ee38a1297cabeea9d5476f8e348",
+  "results/initial_invariance.csv": "7e03901b2b094713ec4b796389c6cfa12cf282b9f3f858c9bb16b9ad899a12b6",
+  "models_digest": "13356e6e4316ce56db73a7c7b2eec3a75685e0c63297d88f599dd78043d7212b",
+  "n_models": 432
+}
